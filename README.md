@@ -3,6 +3,13 @@
 
 Nesse curso de 36 aulas aprendemos HTML5, CSS3 e JavaScript.
 
-Dentro do curso foi ensinado a manipular diretorios, estruturar aquivos para hospedagem, como desenvolver o front-end de um site, fazer formulários e como enviar eles, etc. 
+Dentro do curso foi ensinado a manipular diretorios, estruturar aquivos para hospedagem, como documentar um código, como desenvolver o front-end de um site, fazer formulários, como enviar eles e etc. 
+
+Durante o curso desenvolvemos o "site" do Google Glass o nome do projeto é projeto-glass, espero que vocês gostem do resultado final!!!
 
 Gostaria de agradecer ao professor pelo curso e por toda expêriencia e conhecimento passados!!!
+
+REDES SOCIAIS DO CURSO EM VÍDEO:
+
+YouTube: https://www.youtube.com/cursoemvideo
+Twitter: twitter.com/cursosemvideo

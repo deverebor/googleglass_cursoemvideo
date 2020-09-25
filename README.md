@@ -11,5 +11,5 @@ Gostaria de agradecer ao professor pelo curso e por toda expêriencia e conhecim
 
 REDES SOCIAIS DO CURSO EM VÍDEO:
 
-YouTube: https://www.youtube.com/cursoemvideo
+YouTube: https://www.youtube.com/cursoemvideo  
 Twitter: twitter.com/cursosemvideo

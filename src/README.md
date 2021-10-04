@@ -1,5 +1,6 @@
 # Projeto de conclusão do Curso em Vídeo
-## Curso regido pelo Professor Gustavo Guanabara.
+
+<strong>-Concluído no ano de 2017</strong>
 
 Nesse curso de 36 aulas aprendemos HTML5, CSS3 e JavaScript.
 
